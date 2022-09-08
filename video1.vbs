@@ -1,4 +1,5 @@
 'link para video https://www.youtube.com/watch?v=NwIOuZZqolE&list=PL72Es31dJnK6-ZFXXHFurNwJ6QtWPtxbz&index=1
+'link para types https://docs.microsoft.com/en-us/previous-versions//sfw6660x(v=vs.85)?redirectedfrom=MSDN
 'Messagebox - numbers
 'Estrutura:    msgbox "box msg", "type", "title"
 'type: numeros ou palavras (constants)
